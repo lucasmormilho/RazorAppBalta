@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4ucaMRlRYERClzjVT1X/XhCL6PNbXZukcMWcRwkOCJI=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "C:\\Aulas\\Razor\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

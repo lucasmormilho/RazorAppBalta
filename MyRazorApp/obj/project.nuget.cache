@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TL0BBGFnAegZTgdB4ZTqA4wNKAA7pgZdu6dIb3VB7npzfENeSaWgnWoLNHEtJuExfWfj5kj74C4RYafNELRXVg==",
+  "dgSpecHash": "FkfJIgHNdxHkRdw2+DhTDV5q3dVlNQW7vARCMUcwniMSorMiXwMGI2/0xPKDg24hikkE1Pl5saCL9ir8FhzjFw==",
   "success": true,
-  "projectFilePath": "C:\\Aulas\\Razor\\MyRazorApp\\MyRazorApp.csproj",
+  "projectFilePath": "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\MyRazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

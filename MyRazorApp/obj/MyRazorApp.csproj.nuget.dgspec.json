@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aulas\\Razor\\MyRazorApp\\MyRazorApp.csproj": {}
+    "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\MyRazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Aulas\\Razor\\MyRazorApp\\MyRazorApp.csproj": {
+    "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\MyRazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aulas\\Razor\\MyRazorApp\\MyRazorApp.csproj",
+        "projectUniqueName": "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\MyRazorApp.csproj",
         "projectName": "MyRazorApp",
-        "projectPath": "C:\\Aulas\\Razor\\MyRazorApp\\MyRazorApp.csproj",
+        "projectPath": "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\MyRazorApp.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Aulas\\Razor\\MyRazorApp\\obj\\",
+        "outputPath": "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

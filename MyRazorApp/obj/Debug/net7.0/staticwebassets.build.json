@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ucaMRlRYERClzjVT1X/XhCL6PNbXZukcMWcRwkOCJI=",
+  "Hash": "Bjpuh0b7iUGgLU6Lr+jaCwcAuZpldkvppd0t2MpLqdk=",
   "Source": "MyRazorApp",
   "BasePath": "_content/MyRazorApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "MyRazorApp\\wwwroot",
       "Source": "MyRazorApp",
-      "ContentRoot": "C:\\Aulas\\Razor\\MyRazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Aulas\\Razor\\RazorAppBalta\\MyRazorApp\\wwwroot\\",
       "BasePath": "_content/MyRazorApp",
       "Pattern": "**"
     }

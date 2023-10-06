@@ -387,3 +387,4 @@ bin/
 
 *.exe
 *.o
+/MyRazorApp/MyRazorApp.sln

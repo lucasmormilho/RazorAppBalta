@@ -54,3 +54,5 @@ C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\refint\MyRazorApp.dll
 C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\MyRazorApp.pdb
 C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\MyRazorApp.genruntimeconfig.cache
 C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\ref\MyRazorApp.dll
+C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\scopedcss\Pages\About.cshtml.rz.scp.css
+C:\Aulas\Razor\RazorAppBalta\MyRazorApp\obj\Debug\net7.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css
